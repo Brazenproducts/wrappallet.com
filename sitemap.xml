@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://wrappallet.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://wrappallet.com/best-best-pallet-wrap-stretch-film-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://wrappallet.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://wrappallet.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://wrappallet.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://wrappallet.com/wrappallet-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://wrappallet.com/best-wrappallet-without-overpaying.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://wrappallet.com/wrappallet-guide-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://wrappallet.com/wrappallet-quality-vs-marketing.html</loc><lastmod>2026-05-20</lastmod></url>
-  <url><loc>https://wrappallet.com/wrappallet-buyers-handbook-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://wrappallet.com/what-we-look-for-wrappallet-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://wrappallet.com/wrappallet-what-buyers-need-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://wrappallet.com/wrappallet-worth-the-upgrade-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://wrappallet.com/no-bs-wrappallet-guide-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://wrappallet.com/wrappallet-market-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://wrappallet.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
